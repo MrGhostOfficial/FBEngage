@@ -101,7 +101,7 @@ logo = """
 {green}      Automated Interaction & Management
 {0}--------------------------------------------------
 {red}[{green}✓{red}] {0}Creator  {red}: {white}Niassoh Taarmos{redlite}[{yellowlite}CyberCoder{redlite}]
-{red}[{green}✓{red}] {0}YouTube  {red}: {purple}HackerFake424
+{red}[{green}✓{red}] {0}YouTube  {red}: {purple}iShortcutGamer
 {red}[{green}✓{red}] {0}Support  {red}: {cyan}Personal CyberCoder
 {red}[{green}✓{red}] {0}GitHub   {red}: {green}https://github.com/{yellowlite}Mr{whitelite}Ghost{greenlite}Official 
 {0}--------------------------------------------------
